@@ -3,3 +3,7 @@
 - 3D print case
 - 3D print lens/diffuser
 - Create Bill of Materials (BOM)
+- Create schematic file in Eagle PCB
+- Order parts
+- Build prototype
+- Create board file in Eagle PCB
