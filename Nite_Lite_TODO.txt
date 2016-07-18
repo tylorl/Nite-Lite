@@ -1,0 +1,5 @@
+- Design circuit
+- Write program code
+- 3D print case
+- 3D print lens/diffuser
+- Create Bill of Materials (BOM)
