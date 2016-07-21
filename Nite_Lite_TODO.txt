@@ -1,5 +1,5 @@
 - Design circuit
-- Write program code
+- Write program code 
 - 3D print case
 - 3D print lens/diffuser
 - Create Bill of Materials (BOM)
@@ -7,3 +7,4 @@
 - Order parts
 - Build prototype
 - Create board file in Eagle PCB
+test test test
